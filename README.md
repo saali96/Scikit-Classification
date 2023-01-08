@@ -1,0 +1,3 @@
+# Scikit Classification
+
+This repository contains a comparative analysis of different classification algorithms using scikit-learn. The algorithms tested include decision trees, logistic regression, and linear support vector classifiers. The program performs preprocessing on the data, including imputing null values, checking for null and duplicate values, normalizing the data, and splitting into train and test sets. The program then trains and compares the models using various evaluation metrics, including the confusion matrix, precision, recall, F1 score, accuracy, and mean squared error. The program is designed to provide insight into the strengths and weaknesses of each model and to help determine the best algorithm for a given classification task.
